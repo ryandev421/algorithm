@@ -15,20 +15,23 @@ int main()
 
     fscanf(fin,"%d%d",&n,&w);
     
-    Dy[0][2][0] = -(1<<20);
     for(i=1;i<=n;i++){
         int tree;
         fscanf(fin,"%d",&tree);
         
         if (tree == 1) {
-            for (int j = 0; j <= w; j++) {
+            Dy[i%2][1][0] = Dy[(i-1)%2][1][0] + 1;
+            ans = max(ans,Dy[i%2][1][0]);
+            for (int j = 1; j <= w; j++) {
                 Dy[i%2][1][j] = max(Dy[(i-1)%2][1][j], Dy[(i-1)%2][2][j-1]) + 1;
                 ans = max(ans, Dy[i%2][1][j]);
+                Dy[i%2][2][j] = Dy[(i-1)%2][2][j];
             }
         } else {
-            for (int j = 0; j <= w; j++) {
+            for (int j = 1; j <= w; j++) {
                 Dy[i%2][2][j] = max(Dy[(i-1)%2][1][j-1], Dy[(i-1)%2][2][j]) + 1;
                 ans = max(ans, Dy[i%2][2][j]);
+                Dy[i%2][1][j] = Dy[(i-1)%2][1][j];
             }
         }
     }
