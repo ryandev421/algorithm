@@ -26,6 +26,7 @@ void Input()
 void Process()
 {
 	int i;
+    if (N==0) Arr[0]++;
 	while (N > 0) {
 		Arr[N % 10]++;
 		N /= 10;
