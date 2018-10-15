@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-### LeetCode Algorithm
+### LeetCode Algorithm(https://leetcode.com/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
