@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-20-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-21-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -23,6 +23,7 @@ LeetCode
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | [C++](./399.Evaluate_Division.cpp)|Medium|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) | [C++](./568.Maximum_Vacation_Days.cpp)|Hard|
 |681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [C++](./681.Next_Closest_Time.cpp)|Medium|
+|683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) | [C++](./683.K_Empty_Slots.cpp)|Hard|
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [C++](./686.Repeated_String_Match.cpp)|Easy|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [C++](./687.Longest_Univalue_Path.cpp)|Easy|
 |708|[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) | [C++](./708.Insert_into_a_Cyclic_Sorted_List.cpp)|Medium|
