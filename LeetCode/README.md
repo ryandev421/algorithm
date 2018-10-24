@@ -22,6 +22,7 @@ LeetCode
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [C++](./285.Inorder_Successor_in_BST.cpp)|Medium|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [C++](./340.Longest_Substring_with_At_Most_K_Distinct_Characters.cpp)|Hard|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | [C++](./399.Evaluate_Division.cpp)|Medium|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [C++](./482.License_Key_Formatting.cpp)|Easy|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) | [C++](./568.Maximum_Vacation_Days.cpp)|Hard|
 |681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [C++](./681.Next_Closest_Time.cpp)|Medium|
 |683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) | [C++](./683.K_Empty_Slots.cpp)|Hard|
