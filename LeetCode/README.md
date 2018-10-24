@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-23-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-24-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
