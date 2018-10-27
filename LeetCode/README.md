@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-25-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-26-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -9,6 +9,7 @@ LeetCode
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [C++](./4.median_of_two_sorted_arrays.cpp)|Hard|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./23.merge_k_sorted_lists.cpp)|Hard|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [C++](./64.Minimum_Path_Sum.cpp)|Medium|
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [C++](./66.Plus_One.cpp)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [C++](./72.Edit_Distance.cpp)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [C++](./91.Decode_Ways.cpp)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [C++](./98.Validate_Binary_Search_Tree.cpp)|Medium|
