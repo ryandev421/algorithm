@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-28-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-29-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -9,6 +9,7 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1.Two_Sum.cpp)|Easy|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [C++](./4.median_of_two_sorted_arrays.cpp)|Hard|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./23.merge_k_sorted_lists.cpp)|Hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./42.Trapping_Rain_Water.cpp)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./54.Spiral_Matrix.cpp)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [C++](./64.Minimum_Path_Sum.cpp)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [C++](./66.Plus_One.cpp)|Easy|
