@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-29-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-30-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -28,6 +28,7 @@ LeetCode
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | [C++](./399.Evaluate_Division.cpp)|Medium|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [C++](./482.License_Key_Formatting.cpp)|Easy|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) | [C++](./568.Maximum_Vacation_Days.cpp)|Hard|
+|616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [C++](./616.Add_Bold_Tag_in_String.cpp)|Medium|
 |681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [C++](./681.Next_Closest_Time.cpp)|Medium|
 |683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) | [C++](./683.K_Empty_Slots.cpp)|Hard|
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [C++](./686.Repeated_String_Match.cpp)|Easy|
