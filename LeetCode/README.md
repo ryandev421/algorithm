@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-30-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-31-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -24,6 +24,7 @@ LeetCode
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/) | [C++](./247.Strobogrammatic_Number_II.cpp)|Medium|
 |270|[Closest Binary Search Tree Valu](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | [C++](./270.Closest_Binary_Search_Tree_Value.cpp)|Easy|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [C++](./285.Inorder_Successor_in_BST.cpp)|Medium|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289.Game_of_Life.cpp)|Medium|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [C++](./340.Longest_Substring_with_At_Most_K_Distinct_Characters.cpp)|Hard|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | [C++](./399.Evaluate_Division.cpp)|Medium|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [C++](./482.License_Key_Formatting.cpp)|Easy|
