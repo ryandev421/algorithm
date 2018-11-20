@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-31-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-32-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -27,6 +27,7 @@ LeetCode
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289.Game_of_Life.cpp)|Medium|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [C++](./340.Longest_Substring_with_At_Most_K_Distinct_Characters.cpp)|Hard|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | [C++](./399.Evaluate_Division.cpp)|Medium|
+|425|[Word Squares](https://leetcode.com/problems/word-squares/) | [C++](./425.Word_Squares.cpp)|Hard|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [C++](./482.License_Key_Formatting.cpp)|Easy|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) | [C++](./568.Maximum_Vacation_Days.cpp)|Hard|
 |616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [C++](./616.Add_Bold_Tag_in_String.cpp)|Medium|
