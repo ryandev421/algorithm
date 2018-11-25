@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-34-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-35-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -40,3 +40,4 @@ LeetCode
 |708|[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) | [C++](./708.Insert_into_a_Cyclic_Sorted_List.cpp)|Medium|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [C++](./844.Backspace_String_Compare.cpp)|Easy|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [C++](./904.Fruit_Into_Baskets.cpp)|Medium|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./929.Unique_Email_Addresses.cpp)|Easy|
