@@ -2,25 +2,33 @@ class Solution {
 public:
     vector<string> findMissingRanges(vector<int>& nums, int lower, int upper) {
         vector<string> res;
-        vector<long long> new_nums;
-        
-        new_nums.push_back((long long)lower - 1);
-        new_nums.insert(new_nums.end(), nums.begin(), nums.end());
-        new_nums.push_back((long long)upper + 1);
-        
-        for (int index = 1; index < new_nums.size(); ++index) {
-            long long num1 = new_nums[index-1] + 1;
-            long long num2 = new_nums[index] - 1;
-            
-            long long diff = num2 - num1 +1;
-            if (diff <= 0) continue;
-            else if(diff == 1) {
-                res.push_back(std::to_string(num1));
-            } else {
-                res.push_back(std::to_string(num1) + "->" + std::to_string(num2));
+
+        if (nums.size() == 0) {
+            res.push_back(getRange(lower, upper));
+        } else {
+            int next = lower;
+            for (int index = 0; index < nums.size(); ++index) {
+                if (nums[index] < next) continue;
+                if (next == nums[index]) {
+                    if (next != std::numeric_limits<int>::max()) next ++;
+                    continue;
+                }
+
+                res.push_back(getRange(next, nums[index] -1));
+                if (nums[index] != std::numeric_limits<int>::max()) next = nums[index] + 1;
+                else next = nums[index];
+            }
+
+            if (nums.back() < upper) {
+                res.push_back(getRange(nums.back() + 1, upper));
             }
         }
         
         return res;
+    }
+
+    string getRange(int lower, int upper)
+    {
+        return (lower == upper) ? std::to_string(lower) : std::to_string(lower) + "->" + std::to_string(upper);
     }
 };
