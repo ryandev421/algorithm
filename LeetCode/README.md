@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-38-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-39-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -25,6 +25,7 @@ LeetCode
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/) | [C++](./247.Strobogrammatic_Number_II.cpp)|Medium|
 |270|[Closest Binary Search Tree Valu](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | [C++](./270.Closest_Binary_Search_Tree_Value.cpp)|Easy|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [C++](./285.Inorder_Successor_in_BST.cpp)|Medium|
+|288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) | [C++](./288.Unique_Word_Abbreviation.cpp)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289.Game_of_Life.cpp)|Medium|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | [C++](./298.Binary_Tree_Longest_Consecutive_Sequence.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./299.Bulls_and_Cows.cpp)|Medium|
