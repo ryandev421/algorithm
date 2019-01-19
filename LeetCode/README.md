@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-40-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-41-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -32,6 +32,7 @@ LeetCode
 |308|[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | [C++](./308.Range_Sum_Query_2D.cpp)|Hard|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [C++](./340.Longest_Substring_with_At_Most_K_Distinct_Characters.cpp)|Hard|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./345.Reverse_Vowels_of_a_String.cpp)|Easy|
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./346.Moving_Average_from_Data_Stream.cpp)|Easy|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | [C++](./399.Evaluate_Division.cpp)|Medium|
 |425|[Word Squares](https://leetcode.com/problems/word-squares/) | [C++](./425.Word_Squares.cpp)|Hard|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [C++](./482.License_Key_Formatting.cpp)|Easy|
