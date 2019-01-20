@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-41-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-42-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -44,6 +44,7 @@ LeetCode
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [C++](./687.Longest_Univalue_Path.cpp)|Easy|
 |708|[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) | [C++](./708.Insert_into_a_Cyclic_Sorted_List.cpp)|Medium|
 |760|[Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [Python3](./760.Find_Anagram_Mappings.py)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [c++](./771.Jewels_and_Stones.cpp)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [C++](./844.Backspace_String_Compare.cpp)|Easy|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [C++](./904.Fruit_Into_Baskets.cpp)|Medium|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./929.Unique_Email_Addresses.cpp)|Easy|
