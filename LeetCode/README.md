@@ -48,3 +48,4 @@ LeetCode
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [C++](./844.Backspace_String_Compare.cpp)|Easy|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [C++](./904.Fruit_Into_Baskets.cpp)|Medium|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./929.Unique_Email_Addresses.cpp)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./977.Squares_of_a_Sorted_Array.cpp)|Easy|
