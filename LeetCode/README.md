@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-42-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-44-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -22,6 +22,7 @@ LeetCode
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [C++](./164.maximum_gap.cpp)|Hard|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](./207.Course_Schedule.cpp)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [C++](./213.House_Robber_II.cpp)|Medium|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./222.Count_Complete_Tree_Nodes.cpp)|Medium|
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/) | [C++](./247.Strobogrammatic_Number_II.cpp)|Medium|
 |270|[Closest Binary Search Tree Valu](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | [C++](./270.Closest_Binary_Search_Tree_Value.cpp)|Easy|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [C++](./285.Inorder_Successor_in_BST.cpp)|Medium|
