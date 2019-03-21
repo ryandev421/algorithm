@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-45-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-46-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -25,6 +25,7 @@ LeetCode
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./222.Count_Complete_Tree_Nodes.cpp)|Medium|
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/) | [C++](./247.Strobogrammatic_Number_II.cpp)|Medium|
 |270|[Closest Binary Search Tree Valu](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | [C++](./270.Closest_Binary_Search_Tree_Value.cpp)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283.Move_Zeroes.cpp)|Easy|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [C++](./285.Inorder_Successor_in_BST.cpp)|Medium|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) | [C++](./288.Unique_Word_Abbreviation.cpp)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289.Game_of_Life.cpp)|Medium|
