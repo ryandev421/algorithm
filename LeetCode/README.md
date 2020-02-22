@@ -53,3 +53,4 @@ LeetCode
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./929.Unique_Email_Addresses.cpp)|Easy|
 |939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [C++](./939.Minimum_Area_Rectangle.cpp)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./977.Squares_of_a_Sorted_Array.cpp)|Easy|
+|1192|[ Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [C++](./1192.Critical_Connections_in_a_Network.cpp)|Hard|
