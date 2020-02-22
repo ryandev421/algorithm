@@ -20,6 +20,7 @@ LeetCode
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [C++](./159.Longest_Substring_with_At_Most_Two_Distinct_Characters.cpp)|Hard|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./163.Missing_Ranges.cpp)|Medium|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [C++](./164.maximum_gap.cpp)|Hard|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./200.Number_of_Islands.cpp)|Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](./207.Course_Schedule.cpp)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [C++](./213.House_Robber_II.cpp)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./222.Count_Complete_Tree_Nodes.cpp)|Medium|
@@ -53,4 +54,4 @@ LeetCode
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./929.Unique_Email_Addresses.cpp)|Easy|
 |939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [C++](./939.Minimum_Area_Rectangle.cpp)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./977.Squares_of_a_Sorted_Array.cpp)|Easy|
-|1192|[ Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [C++](./1192.Critical_Connections_in_a_Network.cpp)|Hard|
+|1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [C++](./1192.Critical_Connections_in_a_Network.cpp)|Hard|
