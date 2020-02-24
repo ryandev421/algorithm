@@ -16,6 +16,7 @@ LeetCode
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [C++](./72.Edit_Distance.cpp)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [C++](./91.Decode_Ways.cpp)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [C++](./98.Validate_Binary_Search_Tree.cpp)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138.Copy_List_with_Random_Pointer.cpp)|Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/) | [C++](./139.Word_Break.cpp)|Medium|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [C++](./159.Longest_Substring_with_At_Most_Two_Distinct_Characters.cpp)|Hard|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./163.Missing_Ranges.cpp)|Medium|
