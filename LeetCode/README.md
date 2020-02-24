@@ -42,6 +42,7 @@ LeetCode
 |425|[Word Squares](https://leetcode.com/problems/word-squares/) | [C++](./425.Word_Squares.cpp)|Hard|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [C++](./482.License_Key_Formatting.cpp)|Easy|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) | [C++](./568.Maximum_Vacation_Days.cpp)|Hard|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [C++](./572.Subtree_of_Another_Tree.cpp)|Easy|
 |616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [C++](./616.Add_Bold_Tag_in_String.cpp)|Medium|
 |681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [C++](./681.Next_Closest_Time.cpp)|Medium|
 |683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) | [C++](./683.K_Empty_Slots.cpp)|Hard|
