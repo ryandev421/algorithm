@@ -1,6 +1,6 @@
 LeetCode
 ========
-![SOLVED](https://img.shields.io/badge/SOLVED-53-green.svg)
+![SOLVED](https://img.shields.io/badge/SOLVED-54-green.svg)
 
 ### LeetCode Algorithm(https://leetcode.com/)
 
@@ -26,6 +26,7 @@ LeetCode
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](./207.Course_Schedule.cpp)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [C++](./213.House_Robber_II.cpp)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./222.Count_Complete_Tree_Nodes.cpp)|Medium|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./240.Search_a_2D_Matrix_II.cpp)|Medium|
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/) | [C++](./247.Strobogrammatic_Number_II.cpp)|Medium|
 |270|[Closest Binary Search Tree Valu](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | [C++](./270.Closest_Binary_Search_Tree_Value.cpp)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283.Move_Zeroes.cpp)|Easy|
