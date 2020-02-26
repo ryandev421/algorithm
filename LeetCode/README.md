@@ -9,6 +9,7 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1.Two_Sum.cpp)|Easy|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [C++](./4.median_of_two_sorted_arrays.cpp)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./5.Longest_Palindromic_Substring.cpp)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./21.Merge_Two_Sorted_Lists.cpp)|Easy|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./23.merge_k_sorted_lists.cpp)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./42.Trapping_Rain_Water.cpp)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./54.Spiral_Matrix.cpp)|Medium|
