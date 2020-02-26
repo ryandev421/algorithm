@@ -61,3 +61,4 @@ LeetCode
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./977.Squares_of_a_Sorted_Array.cpp)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [C++](./994.RottingOranges.cpp)|Easy|
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [C++](./1192.Critical_Connections_in_a_Network.cpp)|Hard|
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [C++](./1268.Search_Suggestions_System.cpp)|Medium|
